@@ -2,10 +2,9 @@
 <div align="center">
     <img src="https://media.giphy.com/media/tPjlmJzj9Z99vwF5dV/giphy.gif" width="50" align="right"/> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" width="50" align="left"/> 
-    <h3>Tracking Employee screen, mouse, keyboard and IP</h3>
+    <h3>LaravelShoppingcart Template</h3>
 </div>
 
-## LaravelShoppingcart Template
 
 A Template shoppingcart implementation for Laravel.
 
