@@ -1,11 +1,13 @@
-## LaravelShoppingcart
-[![Build Status](https://travis-ci.org/Crinsane/LaravelShoppingcart.png?branch=master)](https://travis-ci.org/Crinsane/LaravelShoppingcart)
-[![Total Downloads](https://poser.pugx.org/gloudemans/shoppingcart/downloads.png)](https://packagist.org/packages/gloudemans/shoppingcart)
-[![Latest Stable Version](https://poser.pugx.org/gloudemans/shoppingcart/v/stable)](https://packagist.org/packages/gloudemans/shoppingcart)
-[![Latest Unstable Version](https://poser.pugx.org/gloudemans/shoppingcart/v/unstable)](https://packagist.org/packages/gloudemans/shoppingcart)
-[![License](https://poser.pugx.org/gloudemans/shoppingcart/license)](https://packagist.org/packages/gloudemans/shoppingcart)
 
-A simple shoppingcart implementation for Laravel.
+<div align="center">
+    <img src="https://media.giphy.com/media/tPjlmJzj9Z99vwF5dV/giphy.gif" width="50" align="right"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" width="50" align="left"/> 
+    <h3>Tracking Employee screen, mouse, keyboard and IP</h3>
+</div>
+
+## LaravelShoppingcart Template
+
+A Template shoppingcart implementation for Laravel.
 
 ## Installation
 
